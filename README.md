@@ -1,1 +1,2 @@
 # Image-Classification-with-CNNs-using-Keras
+In this hands-on project based course, you will learn how to create a Convolutional Neural Network (CNN) in Keras with a TensorFlow backend, and you will learn to train CNNs to solve Image Classification problems. In this project, we will create and train a CNN model on a subset of the popular CIFAR-10 dataset. The same technique can be used to solve image classification problems on your own data as well.
